@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1497171219580468}
+  m_IsPrefabParent: 1
+--- !u!1 &1497171219580468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4494470799515220}
+  - component: {fileID: 114335194880690042}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4494470799515220
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497171219580468}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 47.344784, y: 21.377708, z: -0.786312}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114335194880690042
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497171219580468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc9d71fa7643d6b4c91b245262b151c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GUI: {fileID: 1784270777393638, guid: 90e6a1f26ca129045b2218cf7a77d71d, type: 2}
+  Character: {fileID: 1671487038598354, guid: f14e3fba4d83b7b47b7f07f1e5b2cb6b, type: 2}
+  MainCamera: {fileID: 1592775033977742, guid: 428ddeedb7b02174e88779c249afc2ee, type: 2}
+  EventSystem: {fileID: 1420282278511794, guid: 35c36d705a2739540a6938cf1aa82bbf,
+    type: 2}
+  AudioSystem: {fileID: 1212079013598616, guid: 9aff2d178a08ff84d8c90580d7a18afc,
+    type: 2}
+  GameplayCheckerObj: {fileID: 1060793102729210, guid: 6f1e3602783b5c34caaa6be004170dbd,
+    type: 2}

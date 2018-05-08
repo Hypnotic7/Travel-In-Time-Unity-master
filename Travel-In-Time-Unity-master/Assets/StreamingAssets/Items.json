@@ -1,0 +1,128 @@
+﻿[
+  {
+    "id": 0,
+    "title": "Time Watch",
+    "value": 6,
+    "stackable": false,
+    "slug": "pocket_watch",
+    "description":  "Old pocket time watch allows to travel in time", 
+    "cooldown_in_seconds": 5
+  },
+  {
+    "id": 1,
+    "title": "Great Stick",
+    "value": 400,
+    "stackable": false,
+    "slug": "great_stick",
+    "description": "",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 2,
+    "title": "Key Door 1",
+    "value": 100,
+    "stackable": true,
+    "slug": "key_room_1",
+    "description": "Key to the doors in room 1",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 3,
+    "title": "Key Chest 1",
+    "value": 100,
+    "stackable": true,
+    "slug": "key_chest_1",
+    "description": "Key to the chest in room 1",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 4,
+    "title": "Piece of Map",
+    "value": 100,
+    "stackable": true,
+    "slug": "piece_of_map_1",
+    "description": "Upcoming Feature for Map",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 5,
+    "title": "Scroll",
+    "value": 1000,
+    "stackable": false,
+    "slug": "scroll_elixir",
+    "description": "Scheme that teaches how to craft invisibility flask",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 6,
+    "title": "Empty Flask",
+    "value": 1000,
+    "stackable": false,
+    "slug": "empty_flask",
+    "description": "Allows to refill the flask with a liquid",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 7,
+    "title": "Wine Flask",
+    "value": 1000,
+    "stackable": false,
+    "slug": "wine_flask",
+    "description": "Wine is required to craft visibility flask",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 8,
+    "title": "Visibility Flask",
+    "value": 1000,
+    "stackable": false,
+    "slug": "visibility_flask",
+    "description": "Changes the perspective visibility on the light colors",
+    "cooldown_in_seconds": 2
+  },
+  {
+    "id": 9,
+    "title": "Vinyl",
+    "value": 1000,
+    "stackable": true,
+    "slug": "vinyl_red",
+    "description": "Vinyl records which are required to activate puzzle",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 10,
+    "title": "Key Chest 2",
+    "value": 1000,
+    "stackable": false,
+    "slug": "key_chest_2",
+    "description": "Key to the chest in room 2",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 11,
+    "title": "Part of Key 1",
+    "value": 1000,
+    "stackable": false,
+    "slug": "key_chest_1_part_1",
+    "description": "First part of key to chest in room 1",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 12,
+    "title": "Part of Key 2",
+    "value": 1000,
+    "stackable": false,
+    "slug": "key_chest_1_part_2",
+    "description": "Second part of key to chest in room 1",
+    "cooldown_in_seconds": 0
+  },
+  {
+    "id": 13,
+    "title": "Piece of Puzzle",
+    "value": 1000,
+    "stackable": false,
+    "slug": "piece_of_puzzle",
+    "description": "Contains description",
+    "cooldown_in_seconds": 0
+  }
+]

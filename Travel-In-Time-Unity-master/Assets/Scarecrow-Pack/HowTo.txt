@@ -1,0 +1,5 @@
+Characters are set up based on Unity 5 Standard Assets Characters preset.
+Open the Example Scene and Play.
+Use WASD / Arrows to Run and Turn.
+Press Space to Jump.
+To add attachments follow these guidelines http://brainbox3d.com/as/Scarecrow-Pack-HowTo.pdf

@@ -1,0 +1,5575 @@
+fileFormatVersion: 2
+guid: 72f8b95f3fed6034b9b484b8f0abf979
+timeCreated: 1521260163
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: uipack_rpg_sheet_0
+    21300002: uipack_rpg_sheet_1
+    21300004: uipack_rpg_sheet_2
+    21300006: uipack_rpg_sheet_3
+    21300008: uipack_rpg_sheet_4
+    21300010: uipack_rpg_sheet_5
+    21300012: uipack_rpg_sheet_6
+    21300014: uipack_rpg_sheet_7
+    21300016: uipack_rpg_sheet_8
+    21300018: uipack_rpg_sheet_9
+    21300020: uipack_rpg_sheet_10
+    21300022: uipack_rpg_sheet_11
+    21300024: uipack_rpg_sheet_12
+    21300026: uipack_rpg_sheet_13
+    21300028: uipack_rpg_sheet_14
+    21300030: uipack_rpg_sheet_15
+    21300032: uipack_rpg_sheet_16
+    21300034: uipack_rpg_sheet_17
+    21300036: uipack_rpg_sheet_18
+    21300038: uipack_rpg_sheet_19
+    21300040: uipack_rpg_sheet_20
+    21300042: uipack_rpg_sheet_21
+    21300044: uipack_rpg_sheet_22
+    21300046: uipack_rpg_sheet_23
+    21300048: uipack_rpg_sheet_24
+    21300050: uipack_rpg_sheet_25
+    21300052: uipack_rpg_sheet_26
+    21300054: uipack_rpg_sheet_27
+    21300056: uipack_rpg_sheet_28
+    21300058: uipack_rpg_sheet_29
+    21300060: uipack_rpg_sheet_30
+    21300062: uipack_rpg_sheet_31
+    21300064: uipack_rpg_sheet_32
+    21300066: uipack_rpg_sheet_33
+    21300068: uipack_rpg_sheet_34
+    21300070: uipack_rpg_sheet_35
+    21300072: uipack_rpg_sheet_36
+    21300074: uipack_rpg_sheet_37
+    21300076: uipack_rpg_sheet_38
+    21300078: uipack_rpg_sheet_39
+    21300080: uipack_rpg_sheet_40
+    21300082: uipack_rpg_sheet_41
+    21300084: uipack_rpg_sheet_42
+    21300086: uipack_rpg_sheet_43
+    21300088: uipack_rpg_sheet_44
+    21300090: uipack_rpg_sheet_45
+    21300092: uipack_rpg_sheet_46
+    21300094: uipack_rpg_sheet_47
+    21300096: uipack_rpg_sheet_48
+    21300098: uipack_rpg_sheet_49
+    21300100: uipack_rpg_sheet_50
+    21300102: uipack_rpg_sheet_51
+    21300104: uipack_rpg_sheet_52
+    21300106: uipack_rpg_sheet_53
+    21300108: uipack_rpg_sheet_54
+    21300110: uipack_rpg_sheet_55
+    21300112: uipack_rpg_sheet_56
+    21300114: uipack_rpg_sheet_57
+    21300116: uipack_rpg_sheet_58
+    21300118: uipack_rpg_sheet_59
+    21300120: uipack_rpg_sheet_60
+    21300122: uipack_rpg_sheet_61
+    21300124: uipack_rpg_sheet_62
+    21300126: uipack_rpg_sheet_63
+    21300128: uipack_rpg_sheet_64
+    21300130: uipack_rpg_sheet_65
+    21300132: uipack_rpg_sheet_66
+    21300134: uipack_rpg_sheet_67
+    21300136: uipack_rpg_sheet_68
+    21300138: uipack_rpg_sheet_69
+    21300140: uipack_rpg_sheet_70
+    21300142: uipack_rpg_sheet_71
+    21300144: uipack_rpg_sheet_72
+    21300146: uipack_rpg_sheet_73
+    21300148: uipack_rpg_sheet_74
+    21300150: uipack_rpg_sheet_75
+    21300152: uipack_rpg_sheet_76
+    21300154: uipack_rpg_sheet_77
+    21300156: uipack_rpg_sheet_78
+    21300158: uipack_rpg_sheet_79
+    21300160: uipack_rpg_sheet_80
+    21300162: uipack_rpg_sheet_81
+    21300164: uipack_rpg_sheet_82
+    21300166: uipack_rpg_sheet_83
+    21300168: uipack_rpg_sheet_84
+    21300170: uipack_rpg_sheet_85
+    21300172: uipack_rpg_sheet_86
+    21300174: uipack_rpg_sheet_87
+    21300176: uipack_rpg_sheet_88
+    21300178: uipack_rpg_sheet_89
+    21300180: uipack_rpg_sheet_90
+    21300182: uipack_rpg_sheet_91
+    21300184: uipack_rpg_sheet_92
+    21300186: uipack_rpg_sheet_93
+    21300188: uipack_rpg_sheet_94
+    21300190: uipack_rpg_sheet_95
+    21300192: uipack_rpg_sheet_96
+    21300194: uipack_rpg_sheet_97
+    21300196: uipack_rpg_sheet_98
+    21300198: uipack_rpg_sheet_99
+    21300200: uipack_rpg_sheet_100
+    21300202: uipack_rpg_sheet_101
+    21300204: uipack_rpg_sheet_102
+    21300206: uipack_rpg_sheet_103
+    21300208: uipack_rpg_sheet_104
+    21300210: uipack_rpg_sheet_105
+    21300212: uipack_rpg_sheet_106
+    21300214: uipack_rpg_sheet_107
+    21300216: uipack_rpg_sheet_108
+    21300218: uipack_rpg_sheet_109
+    21300220: uipack_rpg_sheet_110
+    21300222: uipack_rpg_sheet_111
+    21300224: uipack_rpg_sheet_112
+    21300226: uipack_rpg_sheet_113
+    21300228: uipack_rpg_sheet_114
+    21300230: uipack_rpg_sheet_115
+    21300232: uipack_rpg_sheet_116
+    21300234: uipack_rpg_sheet_117
+    21300236: uipack_rpg_sheet_118
+    21300238: uipack_rpg_sheet_119
+    21300240: uipack_rpg_sheet_120
+    21300242: uipack_rpg_sheet_121
+    21300244: uipack_rpg_sheet_122
+    21300246: uipack_rpg_sheet_123
+    21300248: uipack_rpg_sheet_124
+    21300250: uipack_rpg_sheet_125
+    21300252: uipack_rpg_sheet_126
+    21300254: uipack_rpg_sheet_127
+    21300256: uipack_rpg_sheet_128
+    21300258: uipack_rpg_sheet_129
+    21300260: uipack_rpg_sheet_130
+    21300262: uipack_rpg_sheet_131
+    21300264: uipack_rpg_sheet_132
+    21300266: uipack_rpg_sheet_133
+    21300268: uipack_rpg_sheet_134
+    21300270: uipack_rpg_sheet_135
+    21300272: uipack_rpg_sheet_136
+    21300274: uipack_rpg_sheet_137
+    21300276: uipack_rpg_sheet_138
+    21300278: uipack_rpg_sheet_139
+    21300280: uipack_rpg_sheet_140
+    21300282: uipack_rpg_sheet_141
+    21300284: uipack_rpg_sheet_142
+    21300286: uipack_rpg_sheet_143
+    21300288: uipack_rpg_sheet_144
+    21300290: uipack_rpg_sheet_145
+    21300292: uipack_rpg_sheet_146
+    21300294: uipack_rpg_sheet_147
+    21300296: uipack_rpg_sheet_148
+    21300298: uipack_rpg_sheet_149
+    21300300: uipack_rpg_sheet_150
+    21300302: uipack_rpg_sheet_151
+    21300304: uipack_rpg_sheet_152
+    21300306: uipack_rpg_sheet_153
+    21300308: uipack_rpg_sheet_154
+    21300310: uipack_rpg_sheet_155
+    21300312: uipack_rpg_sheet_156
+    21300314: uipack_rpg_sheet_157
+    21300316: uipack_rpg_sheet_158
+    21300318: uipack_rpg_sheet_159
+    21300320: uipack_rpg_sheet_160
+    21300322: uipack_rpg_sheet_161
+    21300324: uipack_rpg_sheet_162
+    21300326: uipack_rpg_sheet_163
+    21300328: uipack_rpg_sheet_164
+    21300330: uipack_rpg_sheet_165
+    21300332: uipack_rpg_sheet_166
+    21300334: uipack_rpg_sheet_167
+    21300336: uipack_rpg_sheet_168
+    21300338: uipack_rpg_sheet_169
+    21300340: uipack_rpg_sheet_170
+    21300342: uipack_rpg_sheet_171
+    21300344: uipack_rpg_sheet_172
+    21300346: uipack_rpg_sheet_173
+    21300348: uipack_rpg_sheet_174
+    21300350: uipack_rpg_sheet_175
+    21300352: uipack_rpg_sheet_176
+    21300354: uipack_rpg_sheet_177
+    21300356: uipack_rpg_sheet_178
+    21300358: uipack_rpg_sheet_179
+    21300360: uipack_rpg_sheet_180
+    21300362: uipack_rpg_sheet_181
+    21300364: uipack_rpg_sheet_182
+    21300366: uipack_rpg_sheet_183
+    21300368: uipack_rpg_sheet_184
+    21300370: uipack_rpg_sheet_185
+    21300372: uipack_rpg_sheet_186
+    21300374: uipack_rpg_sheet_187
+    21300376: uipack_rpg_sheet_188
+    21300378: uipack_rpg_sheet_189
+    21300380: uipack_rpg_sheet_190
+    21300382: uipack_rpg_sheet_191
+    21300384: uipack_rpg_sheet_192
+    21300386: uipack_rpg_sheet_193
+    21300388: uipack_rpg_sheet_194
+    21300390: uipack_rpg_sheet_195
+    21300392: uipack_rpg_sheet_196
+    21300394: uipack_rpg_sheet_197
+    21300396: uipack_rpg_sheet_198
+    21300398: uipack_rpg_sheet_199
+    21300400: uipack_rpg_sheet_200
+    21300402: uipack_rpg_sheet_201
+    21300404: uipack_rpg_sheet_202
+    21300406: uipack_rpg_sheet_203
+    21300408: uipack_rpg_sheet_204
+    21300410: uipack_rpg_sheet_205
+    21300412: uipack_rpg_sheet_206
+    21300414: uipack_rpg_sheet_207
+    21300416: mouse_cursor
+    21300418: uipack_rpg_sheet_209
+    21300420: uipack_rpg_sheet_210
+    21300422: uipack_rpg_sheet_211
+    21300424: uipack_rpg_sheet_212
+    21300426: uipack_rpg_sheet_213
+    21300428: uipack_rpg_sheet_214
+    21300430: uipack_rpg_sheet_215
+    21300432: uipack_rpg_sheet_216
+    21300434: uipack_rpg_sheet_217
+    21300436: uipack_rpg_sheet_218
+    21300438: uipack_rpg_sheet_219
+    21300440: uipack_rpg_sheet_220
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 480, w: 480}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -14, y: 15}
+        - {x: -15, y: 14}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: 11}
+        - {x: -4, y: 8}
+        - {x: -11, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 12, y: -15}
+        - {x: 13, y: -13}
+        - {x: 13, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 10, y: -15}
+        - {x: 11, y: -14}
+        - {x: 11, y: 15}
+      - - {x: 1, y: 0}
+        - {x: 4, y: 0}
+        - {x: 3, y: -1}
+        - {x: 2, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: -8, y: 11}
+        - {x: -8, y: 9}
+        - {x: -5, y: 6}
+        - {x: -2, y: 7}
+        - {x: -3, y: 8}
+        - {x: -8, y: 3}
+        - {x: -7, y: 3}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 13}
+        - {x: 3, y: 15}
+      - - {x: -6, y: 15}
+        - {x: -6, y: 13}
+        - {x: 1, y: 8}
+        - {x: 12, y: 8}
+        - {x: 15, y: 9}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 452
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 11}
+        - {x: -8, y: 7}
+        - {x: -6, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 6, y: -15}
+        - {x: 13, y: -9}
+        - {x: 13, y: 15}
+      physicsShape:
+      - - {x: 0, y: 15}
+        - {x: -4, y: 14}
+        - {x: -7, y: 9}
+        - {x: -7, y: 8}
+        - {x: -3, y: 1}
+        - {x: 1, y: -2}
+        - {x: -11, y: 6}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: 10, y: -15}
+        - {x: 12, y: -8}
+        - {x: 12, y: 15}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 10}
+        - {x: -11, y: 11}
+        - {x: -9, y: 14}
+        - {x: -9, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: -8, y: 3}
+        - {x: -4, y: -1}
+        - {x: -8, y: -5}
+        - {x: -7, y: -5}
+      physicsShape:
+      - - {x: 1, y: 0}
+        - {x: -4, y: -2}
+        - {x: 1, y: 1}
+        - {x: 4, y: 0}
+        - {x: 11, y: 0}
+        - {x: 15, y: 2}
+        - {x: 15, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: -1}
+        - {x: 14, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 8, y: -15}
+        - {x: 13, y: -13}
+        - {x: 13, y: 15}
+      - - {x: -12, y: 0}
+        - {x: -12, y: -1}
+        - {x: -5, y: 4}
+        - {x: -4, y: 7}
+        - {x: -5, y: 7}
+        - {x: -8, y: 4}
+        - {x: -8, y: 2}
+        - {x: -3, y: -3}
+        - {x: -3, y: -2}
+        - {x: -6, y: -2}
+        - {x: -8, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -4}
+      - - {x: 2, y: -1}
+        - {x: 2, y: 0}
+        - {x: 1, y: -1}
+      physicsShape:
+      - - {x: -15, y: -1}
+        - {x: -15, y: -15}
+        - {x: -4, y: -15}
+        - {x: -4, y: -10}
+        - {x: -11, y: -1}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -5}
+        - {x: -6, y: -15}
+        - {x: 5, y: -15}
+        - {x: 12, y: -10}
+        - {x: 12, y: 14}
+        - {x: 10, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -9}
+        - {x: -8, y: -14}
+        - {x: -8, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -8, y: -15}
+        - {x: -7, y: -7}
+        - {x: -5, y: -9}
+        - {x: -2, y: -9}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -7, y: -15}
+        - {x: 11, y: -8}
+        - {x: 15, y: -6}
+        - {x: 15, y: 15}
+      - - {x: -3, y: -8}
+        - {x: -7, y: -12}
+        - {x: -7, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: -8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 392
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -15}
+        - {x: 6, y: -15}
+        - {x: 6, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -7, y: -15}
+        - {x: -7, y: -14}
+        - {x: -11, y: -9}
+        - {x: -7, y: -5}
+      physicsShape:
+      - - {x: -15, y: -15}
+        - {x: -8, y: -15}
+        - {x: -8, y: -14}
+        - {x: -11, y: -10}
+        - {x: -15, y: -9}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -6}
+        - {x: -11, y: -5}
+        - {x: -7, y: -14}
+        - {x: -6, y: -15}
+        - {x: 6, y: -15}
+        - {x: 6, y: 14}
+        - {x: 5, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 362
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -11, y: -15}
+        - {x: -6, y: -11}
+        - {x: 4, y: -11}
+        - {x: 6, y: -9}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: 6, y: -14}
+        - {x: 6, y: 15}
+      - - {x: -5, y: 11}
+        - {x: -3, y: 9}
+        - {x: -4, y: 8}
+        - {x: -3, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: 15, y: 0}
+        - {x: 5, y: 13}
+        - {x: -5, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -11, y: 14}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: 11, y: -15}
+        - {x: 13, y: -10}
+        - {x: 13, y: 15}
+      physicsShape:
+      - - {x: 9, y: 13}
+        - {x: 8, y: 14}
+        - {x: -8, y: 14}
+        - {x: -15, y: 6}
+        - {x: -15, y: -15}
+        - {x: 9, y: -15}
+        - {x: 12, y: -6}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 8}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 8}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 9}
+        - {x: 15, y: 9}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: -5}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: -6}
+        - {x: 14, y: -5}
+      - - {x: -6, y: 8}
+        - {x: -9, y: 1}
+        - {x: -9, y: -5}
+        - {x: 15, y: -5}
+        - {x: 15, y: 8}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 9}
+        - {x: 15, y: 9}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 15}
+        - {x: 1, y: 11}
+        - {x: 3, y: 9}
+        - {x: -15, y: 8}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: -1, y: -2}
+        - {x: 0, y: -3}
+        - {x: -2, y: -3}
+        - {x: -1, y: -3}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 9}
+        - {x: -12, y: 9}
+        - {x: -8, y: 13}
+        - {x: -8, y: 15}
+      physicsShape:
+      - - {x: -15, y: -7}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: -5}
+        - {x: -11, y: -5}
+      - - {x: -15, y: -5}
+        - {x: 15, y: -5}
+        - {x: 15, y: 8}
+        - {x: -15, y: 8}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 9}
+        - {x: -13, y: 9}
+        - {x: -9, y: 13}
+        - {x: -9, y: 15}
+      - - {x: 5, y: 15}
+        - {x: 5, y: 11}
+        - {x: 7, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -3}
+        - {x: -11, y: -3}
+        - {x: -9, y: -1}
+        - {x: -9, y: 3}
+        - {x: -10, y: 4}
+        - {x: -6, y: 8}
+        - {x: -3, y: 9}
+        - {x: -8, y: 6}
+        - {x: -9, y: 3}
+        - {x: -5, y: -3}
+        - {x: -15, y: -3}
+        - {x: -15, y: -15}
+        - {x: 3, y: -15}
+        - {x: 12, y: 3}
+        - {x: 12, y: 15}
+      - - {x: 1, y: 10}
+        - {x: 1, y: 11}
+        - {x: 0, y: 10}
+      physicsShape:
+      - - {x: -15, y: -5}
+        - {x: -15, y: -15}
+        - {x: 3, y: -15}
+        - {x: 3, y: -7}
+        - {x: 0, y: -5}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -1}
+        - {x: -11, y: 0}
+        - {x: -6, y: 10}
+        - {x: -1, y: 9}
+        - {x: -4, y: 8}
+        - {x: -8, y: 5}
+        - {x: -6, y: 0}
+        - {x: 0, y: -6}
+        - {x: 3, y: -5}
+        - {x: 11, y: 2}
+        - {x: 11, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 3, y: -15}
+        - {x: 3, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 3, y: -15}
+        - {x: 3, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -15}
+        - {x: 3, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+      physicsShape:
+      - - {x: 3, y: -15}
+        - {x: 3, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 14, y: -15}
+        - {x: 15, y: -14}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 212
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: -4}
+        - {x: 3, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: -7, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: -3}
+        - {x: 3, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: 3, y: 3}
+        - {x: 4, y: 4}
+        - {x: 4, y: 2}
+        - {x: 4, y: 3}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 11}
+        - {x: 12, y: 15}
+      physicsShape:
+      - - {x: 14, y: 11}
+        - {x: 11, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -2, y: -15}
+        - {x: 14, y: -11}
+        - {x: 15, y: -10}
+        - {x: 15, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: -8, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -15}
+        - {x: 4, y: -15}
+        - {x: 8, y: -11}
+      physicsShape:
+      - - {x: -15, y: -15}
+        - {x: 4, y: -15}
+        - {x: 8, y: -11}
+        - {x: 8, y: 15}
+        - {x: -10, y: 15}
+        - {x: -15, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -14, y: 15}
+        - {x: -15, y: 14}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: 3, y: -3}
+        - {x: 4, y: -2}
+        - {x: 4, y: -4}
+        - {x: 4, y: -3}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: 2, y: -3}
+        - {x: 4, y: -1}
+        - {x: 4, y: -5}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 11}
+        - {x: 6, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 5}
+        - {x: 9, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 1}
+        - {x: -15, y: -15}
+        - {x: -1, y: -15}
+        - {x: -1, y: -9}
+        - {x: -2, y: -2}
+        - {x: -7, y: 1}
+      - - {x: -1, y: 15}
+        - {x: -4, y: 13}
+        - {x: -5, y: 10}
+        - {x: -5, y: 2}
+        - {x: -2, y: -4}
+        - {x: 2, y: -5}
+        - {x: 7, y: -5}
+        - {x: 8, y: -3}
+        - {x: 8, y: 15}
+      - - {x: -14, y: 15}
+        - {x: -13, y: 12}
+        - {x: -7, y: 12}
+        - {x: -5, y: 14}
+        - {x: -5, y: 15}
+      physicsShape:
+      - - {x: -7, y: 0}
+        - {x: -12, y: 0}
+        - {x: -15, y: -1}
+        - {x: -15, y: -15}
+        - {x: -1, y: -15}
+        - {x: -1, y: -9}
+        - {x: -3, y: -3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: -2, y: 2}
+        - {x: -2, y: 6}
+        - {x: 1, y: 7}
+        - {x: 2, y: 3}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: -1, y: 1}
+        - {x: -2, y: 2}
+        - {x: 4, y: 12}
+        - {x: 3, y: 11}
+        - {x: 3, y: 1}
+        - {x: 4, y: 0}
+        - {x: 3, y: 1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 9}
+        - {x: -3, y: 15}
+      - - {x: 8, y: 15}
+        - {x: 9, y: 12}
+        - {x: 14, y: 12}
+        - {x: 15, y: 13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 122
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 1, y: -15}
+        - {x: 1, y: 11}
+        - {x: 0, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 1, y: -15}
+        - {x: 1, y: 12}
+        - {x: 0, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -5, y: -15}
+        - {x: -5, y: 10}
+        - {x: -7, y: 15}
+      - - {x: 9, y: 15}
+        - {x: 9, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 92
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 1, y: -15}
+        - {x: 1, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 1, y: -15}
+        - {x: 1, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: -4, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -11}
+        - {x: -4, y: -11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 0, y: -15}
+        - {x: 1, y: -14}
+        - {x: 1, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 0, y: -15}
+        - {x: 1, y: -14}
+        - {x: 1, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -11}
+        - {x: -13, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -11}
+        - {x: -14, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: 1, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: 0, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: 15, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: 9, y: -11}
+        - {x: 10, y: -10}
+        - {x: 10, y: -12}
+        - {x: 10, y: -11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -1, y: -15}
+        - {x: 0, y: -14}
+        - {x: 0, y: 12}
+        - {x: -1, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -1, y: -15}
+        - {x: -1, y: 13}
+        - {x: -4, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mouse_cursor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: -10, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 2}
+        - {x: 6, y: 15}
+      physicsShape:
+      - - {x: -15, y: 14}
+        - {x: -15, y: -6}
+        - {x: -8, y: -15}
+        - {x: 14, y: -15}
+        - {x: 15, y: -14}
+        - {x: 15, y: 1}
+        - {x: 7, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -15, y: 14}
+        - {x: -15, y: -10}
+        - {x: -13, y: -11}
+        - {x: -4, y: -15}
+        - {x: 14, y: -15}
+        - {x: 15, y: -14}
+        - {x: 15, y: 5}
+        - {x: 0, y: 15}
+      physicsShape:
+      - - {x: -15, y: 14}
+        - {x: -15, y: -6}
+        - {x: -8, y: -15}
+        - {x: 14, y: -15}
+        - {x: 15, y: -14}
+        - {x: 15, y: 1}
+        - {x: 7, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: -10, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 2}
+        - {x: 6, y: 15}
+      - - {x: 11, y: 7}
+        - {x: 11, y: 3}
+        - {x: 13, y: 1}
+        - {x: 15, y: 1}
+        - {x: 15, y: 9}
+        - {x: 13, y: 9}
+      physicsShape:
+      - - {x: -15, y: 14}
+        - {x: -15, y: -6}
+        - {x: -8, y: -15}
+        - {x: 14, y: -15}
+        - {x: 15, y: -14}
+        - {x: 15, y: 1}
+        - {x: 7, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 10, y: -15}
+        - {x: 15, y: -12}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: 11, y: 11}
+        - {x: 10, y: 7}
+        - {x: 13, y: 1}
+        - {x: 11, y: 6}
+        - {x: 9, y: 8}
+        - {x: 7, y: 13}
+        - {x: 3, y: 14}
+        - {x: -13, y: 14}
+        - {x: -15, y: 13}
+        - {x: -15, y: -8}
+        - {x: -10, y: -13}
+        - {x: 8, y: -13}
+        - {x: 15, y: -10}
+        - {x: 15, y: 14}
+        - {x: 14, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: -13, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: 8, y: 11}
+        - {x: 7, y: 7}
+        - {x: 10, y: 1}
+        - {x: 8, y: 5}
+        - {x: 2, y: 12}
+        - {x: -7, y: 14}
+        - {x: -15, y: 14}
+        - {x: -15, y: -11}
+        - {x: -7, y: -13}
+        - {x: 8, y: -13}
+        - {x: 15, y: -10}
+        - {x: 15, y: 14}
+        - {x: 11, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: -14, y: -15}
+        - {x: 14, y: -15}
+        - {x: 15, y: -14}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -12}
+        - {x: -12, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: 15, y: -14}
+        - {x: 15, y: 13}
+        - {x: 9, y: 15}
+      - - {x: 4, y: 15}
+        - {x: 4, y: 13}
+        - {x: 6, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 8}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 10}
+        - {x: 11, y: 10}
+        - {x: -12, y: 9}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 8}
+        - {x: -6, y: 8}
+        - {x: -4, y: 10}
+        - {x: -5, y: 15}
+      - - {x: 4, y: 15}
+        - {x: 4, y: 14}
+        - {x: 7, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 11}
+        - {x: -15, y: -14}
+        - {x: 0, y: -14}
+        - {x: 15, y: -8}
+        - {x: 15, y: 6}
+        - {x: 2, y: 11}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 10}
+        - {x: -15, y: -13}
+        - {x: 1, y: -13}
+        - {x: 15, y: -7}
+        - {x: 15, y: 5}
+        - {x: 2, y: 10}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -15, y: 7}
+        - {x: -15, y: -13}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 15, y: -13}
+        - {x: 15, y: 11}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -10, y: 10}
+        - {x: -15, y: 6}
+        - {x: -15, y: -12}
+        - {x: -9, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 10}
+      - - {x: -15, y: 15}
+        - {x: -15, y: 11}
+        - {x: 15, y: 11}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -12}
+        - {x: 11, y: -14}
+        - {x: 15, y: -14}
+        - {x: 15, y: 15}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -12}
+        - {x: -3, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: 15, y: -14}
+      - - {x: -4, y: 7}
+        - {x: -6, y: 8}
+        - {x: -9, y: 6}
+      physicsShape:
+      - - {x: 15, y: -13}
+        - {x: 15, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: -13, y: -13}
+        - {x: -11, y: -11}
+        - {x: 1, y: -13}
+      - - {x: -9, y: 6}
+        - {x: -4, y: 7}
+        - {x: -10, y: 4}
+        - {x: -9, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -14}
+        - {x: -13, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
+      - - {x: -7, y: 8}
+        - {x: -1, y: 7}
+        - {x: -1, y: 6}
+        - {x: -2, y: 7}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -13}
+        - {x: -11, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 12}
+        - {x: 12, y: 15}
+      - - {x: -8, y: 8}
+        - {x: -7, y: 7}
+        - {x: -1, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uipack_rpg_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -6, y: -15}
+        - {x: 3, y: -8}
+        - {x: 9, y: -1}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: -8, y: -15}
+        - {x: 8, y: -5}
+        - {x: 8, y: 10}
+        - {x: 2, y: 15}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
