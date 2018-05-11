@@ -65,6 +65,7 @@ public class InteractableManager : MonoBehaviour
     //Deactivates the interaction window
     public void DeactivateInteraction()
     {
+        GameplayChecker.PlayerHasTeleported = false;
         var currentInteraction = GetCurrentInteractionComponent(currentWindow.name.Split('_')[0]);
         currentInteraction.Clean();
         Destroy(currentWindow);

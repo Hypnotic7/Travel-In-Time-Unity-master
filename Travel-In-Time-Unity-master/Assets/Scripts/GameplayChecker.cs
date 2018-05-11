@@ -22,6 +22,7 @@ namespace Assets.Scripts
         public static bool AreDoorsOpen { get; set; }
         public static bool FirstTimeOpened { get; set; }
         public static string CurrentTime { get; set; }
+        public static bool PlayerHasTeleported { get; set; }
 
         void Start()
         {
@@ -41,6 +42,7 @@ namespace Assets.Scripts
             FirstTimeOpened = false;
             GramophoneVinylsUnlockPuzzle = false;
             CurrentTime = "Past_Time_Test";
+            PlayerHasTeleported = false;
         }
 
     }

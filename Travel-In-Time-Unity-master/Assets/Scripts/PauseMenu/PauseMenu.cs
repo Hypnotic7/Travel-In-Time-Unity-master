@@ -91,6 +91,7 @@ namespace Assets.Scripts.PauseMenu
             GameplayChecker.AreDoorsOpen = false;
             GameplayChecker.EmptyFlaskPickedUp = false;
             GameplayChecker.FirstTimeOpened = false;
+            GameplayChecker.PlayerHasTeleported = false;
         }
 
        
